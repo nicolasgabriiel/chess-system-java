@@ -2,7 +2,7 @@ package aplication;
 
 import chess.ChessPiece;
 import chess.ChessPosition;
-import chess.Color;
+import chess.enums.Color;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
